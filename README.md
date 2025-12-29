@@ -61,4 +61,4 @@ what I Learned
        50. steganogr@phy                                  
        51. An0nymizing y0ur computer 
        
-Favorite Browser Tor & OS Kali Linux, Parrot 🔥
+Favorite Browser Tor & OS Kali Linux, Parrot, BlackArch 🔥
