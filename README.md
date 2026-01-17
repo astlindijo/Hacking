@@ -1,6 +1,5 @@
 # Hacking
 
-what I Learned
 
       kali Linux in Virtual Box
       bootable kali linux in USB
